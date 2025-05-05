@@ -66,9 +66,7 @@ The project focuses on modular hardware-software interaction. Each startup gener
 
 - `cs2220projectSmartAccessSystem.ino` — Arduino sketch (source code)
 - `README.md` — This documentation file
-- Optional:
-  - `circuit_diagram.png` — Breadboard layout or schematic
-  - `timing_diagram.png` — Output or simulation results
+
 
 ## Author
 
